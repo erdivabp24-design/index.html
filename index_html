@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Profil Saya - Erdiva berliana putri</title>
+    <title>Profil Saya - Erdiva</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <div class="kartu-pp">
-      <img src="diva.jpg" alt="my pp">
+      <img src="Me.png" alt="my pp">
       <h1>Erdiva berliana putri</h1>
-      <p>Siswa SMK NEGERI TAMBAKBOYO</p>
-      <a href="https://www.instagram.com/myusername">Jangan lupa mampir IG saya!</a>
+      <p>Siswa Pelatihan TIK.Welcone to my firts website!</p>
+      <a href="https://www.instagram.com/myusername">jangan lupa mampir ig saya</a>
       <button id="sapaButton">Sapa Saya!</button>
     </div>
     <script src="script.js" defer></script>
   </body>
 </html>
+
